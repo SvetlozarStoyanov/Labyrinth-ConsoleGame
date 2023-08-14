@@ -1,0 +1,7 @@
+The goal of the game is to defeat the boss in each level. 
+To beat the boss you must catch him when you have more health than him. 
+There are enemies on the map (marked with "*") who the boss collects to gain more HP. 
+There are also traps("T") and health packs("+") scattered on the map.
+When fighting the boss the player has an ability which impacts all squares around him and remove any enemies and damages the boss.
+When the player enters a cave he must escape from the spider("S") and his ability is replaced by a decoy("D").
+When the decoy is deployed the spider will always chase it instead of the player, the player may pickup the decoy over and over again.
